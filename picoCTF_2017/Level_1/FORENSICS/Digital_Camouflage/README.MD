@@ -19,5 +19,5 @@ HTML Form URL Encoded: application/x-www-form-urlencoded
     > Form item: "userid" = "randled"
     > Form item: "pswrd" = "OFBGRW8wdHRIUQ=="
 ```
-It seems like a base64 encode string. So trying the base64 decode online tools. 
-Get the flag, the flag is `8PFEo0ttHQ`.
+It seems like a base64 encode string. So using the base64 decode online tools to decode it. 
+The flag is `8PFEo0ttHQ`.
