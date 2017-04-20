@@ -2,7 +2,7 @@
 
 **Level:** 1 **Category:** CRYPTOGRAPHY **Point:** 40 **Description:**
 
->A wizard (he seemed kinda odd...) handed me this. Can you figure out what it says?
+>A wizard (he seemed kinda odd...) handed me [this](https://github.com/nxe4ctf/ctfwriteup/blob/master/picoCTF_2017/Level_1/CRYPTOGRAPHY/Substitute/cipher.txt). Can you figure out what it says?
 
 **Hint:**
 
