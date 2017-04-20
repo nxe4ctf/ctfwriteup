@@ -1,4 +1,4 @@
-# picoCTF 2017: Leaf_of_the_Tree
+# picoCTF 2017: looooong
 
 **Level:** 1 **Category:** MISC **Point:** 20 **Description:**
 
