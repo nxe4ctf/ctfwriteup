@@ -41,7 +41,7 @@ The key's randomart image is:
 Next, copy the public key(id_rsa.pub) in your computer to the web shell as the challenge said.
 
 ```
-echo "{your public key}" >> ~/.ssh/authorized_keys
+echo "your public key" >> ~/.ssh/authorized_keys
 ```
 
 Then, use ssh tool with your own computer to connect to the server.
