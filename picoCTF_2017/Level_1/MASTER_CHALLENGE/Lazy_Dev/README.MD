@@ -1,6 +1,6 @@
 # picoCTF 2017: Lazy Dev
 
-**Level:** 1 **Category:** CRYPTOGRAPHY **Point:** 50 **Description:**
+**Level:** 1 **Category:** Master Challenge **Point:** 50 **Description:**
 
 >I really need to login to this [website](http://shell2017.picoctf.com:35895), but the developer hasn't implemented login yet. Can you help?
 
