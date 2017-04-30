@@ -1,8 +1,10 @@
-# picoCTF 2017: Just No
+# picoCTF 2017: Meta Find Me
 
-**Level:** 2 **Category:** FORENSICS **Point:** 70 **Description:**
+**Level:** 2 **Category:** FORENSICS **Point:** 70 
 
->Find the location of the flag in the image: [image.jpg](https://github.com/nxe4ctf/ctfwriteup/blob/master/picoCTF_2017/Level_2/FORENSICS/Meta_Find_Me/image.jpg). Note: Latitude and longitude values are in degrees with no degree symbols,/direction letters, minutes, seconds, or periods. They should only be digits. The flag is not just a set of coordinates - if you think that, keep looking!
+**Description:**
+
+>Find the location of the flag in the image: [image.jpg](https://github.com/nxe4ctf/ctfwriteup/raw/master/picoCTF_2017/Level_2/FORENSICS/Meta_Find_Me/image.jpg). Note: Latitude and longitude values are in degrees with no degree symbols,/direction letters, minutes, seconds, or periods. They should only be digits. The flag is not just a set of coordinates - if you think that, keep looking!
 
 **Hint:**
 
